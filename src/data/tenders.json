@@ -1,0 +1,32 @@
+[
+      {
+        "id": "1",
+        "title": "Example Tender 1",
+        "description": "This is an example tender description.",
+        "publishedDate": "2023-01-01",
+        "value": {
+          "amount": 100000,
+          "currency": "GBP"
+        },
+        "documents": [
+          {
+            "url": "https://example.com/document1.pdf"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Example Tender 2",
+        "description": "Another example tender description.",
+        "publishedDate": "2023-02-01",
+        "value": {
+          "amount": 50000,
+          "currency": "GBP"
+        },
+        "documents": [
+          {
+            "url": "https://example.com/document2.pdf"
+          }
+        ]
+      }
+    ]
